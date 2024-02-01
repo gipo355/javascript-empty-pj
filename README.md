@@ -16,6 +16,7 @@ cd javascript-empty-pj
 
 ```
 npm install
+code .
 ```
 
 - install vscode suggested extensions
