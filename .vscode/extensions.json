@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "ritwickdey.LiveServer",
+    "usernamehw.errorlens",
+    "htmlhint.vscode-htmlhint",
+    "html-validate.vscode-html-validate",
+    "stylelint.vscode-stylelint",
+    "ms-edgedevtools.vscode-edge-devtools",
+    "jdinhlife.gruvbox",
+    "pkief.material-icon-theme"
+  ]
+}
