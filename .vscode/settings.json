@@ -8,6 +8,7 @@
     }
   ],
   "stylelint.validate": ["css"],
+  "html-validate.validate": ["html", "markdown", "vue", "vue-html"],
   "[css]": {
     "editor.codeActionsOnSave": [
       "source.fixAll.stylelint",
