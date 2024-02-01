@@ -1,0 +1,10 @@
+/* write your style here */
+
+body {
+  display: flex;
+  height: 100vh;
+  margin: auto;
+  background-color: green;
+  color: white;
+  place-content: center center;
+}
