@@ -20,8 +20,4 @@ npm install
 
 - install vscode suggested extensions
 
-- in terminal, run
-
-```
-npm start
-```
+- start vscode live-reload on `index.html`
