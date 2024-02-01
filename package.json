@@ -4,7 +4,7 @@
   "description": "js boilerplate",
   "main": "index.js",
   "scripts": {
-    "dev": "tsc --watch"
+    "start": "live-server index.html"
   },
   "keywords": [],
   "type": "module",
@@ -19,6 +19,7 @@
   "dependencies": {
     "html-validate": "^8.9.1",
     "htmlhint": "^1.1.4",
+    "live-server": "^1.2.2",
     "stylelint": "^16.2.1",
     "stylelint-config-idiomatic-order": "^10.0.0",
     "stylelint-config-standard": "^36.0.0"

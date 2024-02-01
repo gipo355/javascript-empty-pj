@@ -1,9 +1,27 @@
-# how to run this
+# How to run
 
-clone the repository
+- clone the repository
 
-install dependencies with `npm install`
+```
+git clone https://github.com/gipo355/javascript-empty-pj
+```
 
-in terminal, run `npm run dev`
+- enter directory
 
-use vscode extension `live server` to run index.html
+```
+cd javascript-empty-pj
+```
+
+- install Dependencies
+
+```
+npm install
+```
+
+- install vscode suggested extensions
+
+- in terminal, run
+
+```
+npm run dev
+```
