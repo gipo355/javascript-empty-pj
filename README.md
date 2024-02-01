@@ -23,5 +23,5 @@ npm install
 - in terminal, run
 
 ```
-npm run dev
+npm start
 ```
