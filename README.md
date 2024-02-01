@@ -12,13 +12,24 @@ git clone https://github.com/gipo355/javascript-empty-pj
 cd javascript-empty-pj
 ```
 
-- install Dependencies
+- install typescript globally
+
+```
+npm install -g typescript
+```
+
+- install local dependencies
 
 ```
 npm install
+```
+
+- open folder in vscode
+
+```
 code .
 ```
 
 - install vscode suggested extensions
 
-- start vscode live-reload on `index.html`
+- start vscode extension live-reload on `index.html`

@@ -9,6 +9,7 @@
     "stylelint.vscode-stylelint",
     "ms-edgedevtools.vscode-edge-devtools",
     "jdinhlife.gruvbox",
-    "pkief.material-icon-theme"
+    "pkief.material-icon-theme",
+    "nucllear.vscode-extension-auto-import"
   ]
 }
